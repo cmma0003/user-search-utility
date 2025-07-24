@@ -1,2 +1,3 @@
 # user-search-utility
-FE homework
+
+Deployed to https://user-search-utility.vercel.app/
